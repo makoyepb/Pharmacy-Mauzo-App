@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556071368065",
+    "firebase_url": "https://pharmacy-mauzo-app.firebaseio.com",
+    "project_id": "pharmacy-mauzo-app",
+    "storage_bucket": "pharmacy-mauzo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556071368065:android:451b45c9704410db2ea480",
+        "android_client_info": {
+          "package_name": "com.example.pharmacymauzoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556071368065-ggm2admntmc8psamv7p5sut6ijtlschq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOBLgm8ieMEdzwKTJcHYPeECn0M5z2sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556071368065-ggm2admntmc8psamv7p5sut6ijtlschq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

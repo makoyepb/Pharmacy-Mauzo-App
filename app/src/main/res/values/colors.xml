@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2a7ee6</color>
+    <color name="colorPrimaryDark">#76a5df</color>
+    <color name="colorAccent">#ffff8800</color>
+    <color name="zircon">#e0e6e4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#578DFA</color>
+    <color name="purple_700">#83F1E8</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
