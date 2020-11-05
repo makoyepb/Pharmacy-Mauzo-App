@@ -21,6 +21,7 @@
         <activity android:name=".SellingActivity" />
         <activity android:name=".DashboardActivity" />
         <activity android:name=".ScanCodeActivitysearch" />
+        <activity android:name=".ScanCodeActivitysell" />
         <activity android:name=".UserOptionActivity" />
         <activity android:name=".additemActivity" />
         <activity android:name=".ScanCodeActivity" />
